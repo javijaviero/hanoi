@@ -16,7 +16,7 @@ moves = 0
 
 """
     
-    Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi. jeje segundo dia
+    Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi. jeje segundo dia nueva rama
 
 """
 
